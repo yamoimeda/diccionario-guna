@@ -3,12 +3,13 @@
 # requerimientos
 - pip install flask
 
-python 2
- -pip install pysqlite
- 
- 
-python 3
-  -pip install pysqlite3
+- python 2
+
+- pip install pysqlite
+
+- python 3
+
+-pip install pysqlite3
   
   
 # ejecutar 
