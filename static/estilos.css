@@ -1,0 +1,16 @@
+* {
+    margin:0;
+    padding:0;
+    font:17pt Arial;
+}
+
+body {
+  background-color:#34495e;
+}
+
+
+.letras{
+color: white;
+position:relative;
+top:100;
+}
